@@ -24,6 +24,32 @@ _Electrotechnician of Information Technology_
 
 ---
 
+### **Experience**
+
+**Cryptography Intern**  
+_MVP Workshop – Team 3327_  
+February – March 2025  
+- Researched and implemented a key recovery mechanism for the ECPDKSAP (Curvy) stealth address protocol  
+- Contributed to the design of distributed key generation and threshold signature schemes using MPC  
+- Co-developed a Go-based cryptographic library for share generation, reconstruction, and validation using ECDSA and Merkle trees; compiled to WebAssembly
+
+**React Native Developer (Part-Time)**  
+_Fitnesses_  
+September 2022 – December 2023  
+- Implemented redesigned UI components and layouts in an existing cross-platform fitness app  
+- Developed new features based on product specifications  
+- Maintained and refactored legacy code for improved performance
+
+**Freelance Fullstack Developer**  
+_Remote_  
+2022 – Present  
+- Built and deployed **ChillTube**, an anime streaming platform with a custom admin panel using Next.js and MySQL [(GitHub)](https://github.com/MihajloMilojevic/ChillTube)  
+- Developed **The Reptile House**, an e-commerce web app with product listings, auth, and admin tools [(GitHub)](https://github.com/MihajloMilojevic/The-Reptile-House)  
+- Built most of the REST API for the **Belgrand mobile app** using Hono (JavaScript)  
+- Migrated backend services from Hono (JavaScript) to Fiber (Go) for the **Arhivix** project
+
+---
+
 ### **Technical Skills**
 
 **Languages:**  
@@ -114,31 +140,6 @@ _Cryptography Course Final Project_
 
 ---
 
-### **Experience**
-
-**Cryptography Intern**  
-_MVP Workshop – Team 3327_  
-February – March 2025  
-- Researched and implemented a key recovery mechanism for the ECPDKSAP (Curvy) stealth address protocol  
-- Contributed to the design of distributed key generation and threshold signature schemes using MPC  
-- Co-developed a Go-based cryptographic library for share generation, reconstruction, and validation using ECDSA and Merkle trees; compiled to WebAssembly
-
-**React Native Developer (Part-Time)**  
-_Fitnesses_  
-September 2022 – December 2023  
-- Implemented redesigned UI components and layouts in an existing cross-platform fitness app  
-- Developed new features based on product specifications  
-- Maintained and refactored legacy code for improved performance
-
-**Freelance Fullstack Developer**  
-_Remote_  
-2022 – Present  
-- Built and deployed **ChillTube**, an anime streaming platform with a custom admin panel using Next.js and MySQL [(GitHub)](https://github.com/MihajloMilojevic/ChillTube)  
-- Developed **The Reptile House**, an e-commerce web app with product listings, auth, and admin tools [(GitHub)](https://github.com/MihajloMilojevic/The-Reptile-House)  
-- Built most of the REST API for the **Belgrand mobile app** using Hono (JavaScript)  
-- Migrated backend services from Hono (JavaScript) to Fiber (Go) for the **Arhivix** project
-
----
 
 ### **Competitions & Achievements**
 
