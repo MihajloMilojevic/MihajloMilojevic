@@ -145,6 +145,8 @@ _Cryptography Course Final Project_
 
 - 🏆 1st Place, EU Mobile App Competition (team of 3) – Winter 2022  
 - 🥉 3rd Place, DigiHack Hackathon (team of 4) – September 2024  
+- 🥉 3rd Place, Eestec Challenge (team of 3) – April 2025  
+- 🧑‍💻 Finalist, Google Build with AI Hackathon (team of 4) – May 2025  
 - 🧠 Finalist, AI BattleGround Hackathon v4.0 (team of 2) – May 2024  
 - 🧑‍💻 Finalist, National High School Hackathon (team of 4) – December 2021  
 - 🏆 1st Place, National Electronics Competition – May 2022  
@@ -154,13 +156,11 @@ _Cryptography Course Final Project_
 
 ### **Certificates**
 
-- **EF SET English Certificate** – C2 Proficient (Score: 79/100) – June 2022  
 - **Cisco Networking Essentials** – Cisco Networking Academy – April 2023  
 - **Cisco IT Essentials: PC Hardware and Software** – Cisco Networking Academy – June 2022  
 - **Oracle Database Foundations** – May 2022  
 - **Cryptography: Zero-Knowledge Proofs** – Matematička Akademija – February 2025  
   - Final project: *PQSAPwKR – Post-Quantum Stealth Address Protocol with Key Recovery*  
 - **Certifications** – [freeCodeCamp Profile](https://www.freecodecamp.org/MilojevicMihajlo)  
-- **Certifications** – [HackerRank Profile](https://www.hackerrank.com/milojevicm374)  
-- **HTML5 and CSS3** – Pirple – October 2021
+- **Certifications** – [HackerRank Profile](https://www.hackerrank.com/milojevicm374) 
 
